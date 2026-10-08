@@ -12,7 +12,7 @@
 [![YOLO 已解锁](https://img.shields.io/badge/YOLO-%E5%B7%B2%E8%A7%A3%E9%94%81-brightgreen?style=flat-square)](https://github.com/Tupig?tab=achievements)
 [![Pull Shark x3 已合并64个PR](https://img.shields.io/badge/Pull_Shark_x3-%E5%B7%B2%E5%90%88%E5%B9%B664%E4%B8%AAPR-brightgreen?style=flat-square)](https://github.com/Tupig/achievements-playground/pulls?q=is%3Apr+is%3Amerged)
 [![Galaxy Brain x3 16个采纳回答](https://img.shields.io/badge/Galaxy_Brain_x3-16%E4%B8%AA%E9%87%87%E7%BA%B3%E5%9B%9E%E7%AD%94-brightgreen?style=flat-square)](https://github.com/Tupig/achievements-playground/discussions)
-[![Pair Extraordinaire 待完成](https://img.shields.io/badge/Pair_Extraordinaire-%E5%BE%85%E5%AE%8C%E6%88%90-yellow?style=flat-square)](https://github.com/Tupig?tab=achievements)
+[![Pair Extraordinaire 合著PR已合并](https://img.shields.io/badge/Pair_Extraordinaire-%E5%90%88%E8%91%97PR%E5%B7%B2%E5%90%88%E5%B9%B6-brightgreen?style=flat-square)](https://github.com/Tupig?tab=achievements)
 [![Starstruck 待完成](https://img.shields.io/badge/Starstruck-%E5%BE%85%E5%AE%8C%E6%88%90-yellow?style=flat-square)](https://github.com/Tupig?tab=repositories)
 [![Public Sponsor 待完成](https://img.shields.io/badge/Public_Sponsor-%E5%BE%85%E5%AE%8C%E6%88%90-yellow?style=flat-square)](https://github.com/sponsors)
 
