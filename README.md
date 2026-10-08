@@ -18,10 +18,10 @@
 
 ## 统计数据
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tupig&show_icons=true" alt="GitHub 统计" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tupig&layout=compact" alt="常用语言" />
-</p>
+[![公开仓库](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTupig&query=%24.public_repos&label=%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93&color=blue&style=flat-square)](https://github.com/Tupig?tab=repositories)
+[![主项目星数](https://img.shields.io/github/stars/Tupig/GitHubDesktop2Chinese?label=%E4%B8%BB%E9%A1%B9%E7%9B%AE%E6%98%9F%E6%95%B0&color=yellow&style=flat-square)](https://github.com/Tupig/GitHubDesktop2Chinese)
+[![年度提交](https://img.shields.io/github/commit-activity/y/Tupig/GitHubDesktop2Chinese?label=%E5%B9%B4%E5%BA%A6%E6%8F%90%E4%BA%A4&color=green&style=flat-square)](https://github.com/Tupig/GitHubDesktop2Chinese/commits)
+[![待处理问题](https://img.shields.io/github/issues/Tupig/GitHubDesktop2Chinese?label=%E5%BE%85%E5%A4%84%E7%90%86%E9%97%AE%E9%A2%98&color=orange&style=flat-square)](https://github.com/Tupig/GitHubDesktop2Chinese/issues)
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Tupig&locale=zh-CN" alt="GitHub 连续贡献" />
