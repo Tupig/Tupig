@@ -2,7 +2,7 @@
 
 在家办公 · C++ / TypeScript / Kotlin
 
-[![访问量](https://komarev.com/ghpvc/?username=Tupig&style=flat-square&color=blueviolet&label=%E8%AE%BF%E9%97%AE%E9%87%8F)](https://github.com/Tupig)
+访问量 ![访问量](https://komarev.com/ghpvc/?username=Tupig&style=flat-square&color=blueviolet&label=%20)
 [![关注者](https://img.shields.io/github/followers/Tupig?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=flat-square&color=blue)](https://github.com/Tupig?tab=followers)
 [![可达成就 7/7](https://img.shields.io/badge/%E5%8F%AF%E8%BE%BE%E6%88%90%E5%B0%B1-7%2F7-gold?style=flat-square&logo=github)](https://github.com/Tupig?tab=achievements)
 
